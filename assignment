@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<body>
+<div class="row bottom-rule">
+    <div class="col-sm-12">
+        <nav class="navbar navbar-default navbar-footer">
+            <ul class="nav navbar-nav">
+                <li><a href="#">Customer Care</a></li>
+                <li><a href="#">what u want</a></li>
+                <li><a href="#">Gift Cards</a></li>
+                <li><a href="#">About store</a></li>
+                <li><a href="#">Careers</a></li>
+                <li><a href="#">Contact Us</a></li>
+                <li><a href="#">About us</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+<div class="row leg-room">
+    <div class="col-md-12 text-center">
+        <h1 class="text-uppercase">Best Store</h1>
+        <p class="monospaced">
+            &copy;2000 Store Company Inc. 
+            <span class="text-uppercase">All Rights Reserved</span></p>
+    </div>
+</div>
+</body>
+</html>
